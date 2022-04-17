@@ -23,7 +23,7 @@
 ## DEMO of html page that displays output from from API
 
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
