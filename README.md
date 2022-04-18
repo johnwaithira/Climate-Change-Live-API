@@ -5,7 +5,7 @@
 
 ### View output
 
-* 
+* https://climatechangeapikenya.herokuapp.com/
 ```json
     newsresource : 
         {
