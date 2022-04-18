@@ -2,6 +2,10 @@
 ----
 ### Get All Climate Chnage news from 
 
+
+### View output
+
+* 
 ```json
     newsresource : 
         {
@@ -21,7 +25,6 @@
 
 ```
 ## DEMO of html page that displays output from from API
-
 
 ```html
 <!DOCTYPE html>
