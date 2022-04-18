@@ -6,6 +6,8 @@
 ### View output
 
 * https://climatechangeapikenya.herokuapp.com/
+* https://climatechangeapikenya.herokuapp.com/news
+* * https://climatechangeapikenya.herokuapp.com/news
 ```json
     newsresource : 
         {
